@@ -5,7 +5,7 @@
     </head>
     <body>
         <%
-            out.println("<h1> Hello World JSP Test!!</h1>");
+            out.println("<h1> Hello World JSP Test!! 수정</h1>");
         %>
     </body>
 </html>
